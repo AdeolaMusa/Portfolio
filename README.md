@@ -1,4 +1,4 @@
-# Goodride Sales Analysis
+# Project 1- Goodride store Sales Analysis (Excel)
 
 You can interact with the project [here](https://1drv.ms/x/c/b8e8fdd319a907e1/Ebg3beouaVxHuwkvlOzeNTwBkKoIOB3kNqk36A8UMPK-jw?e=n9lQ7j&nav=MTVfe0QyMTdDMzlDLTZBMkEtNEE1QS04MUQxLUY3N0EwM0E1ODVFQ30)
 
