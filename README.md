@@ -14,7 +14,7 @@ You can interact with the project [here](https://1drv.ms/x/c/b8e8fdd319a907e1/EY
 
 This Excel projects provides a comprehensive overview of the purchase performance for an imaginary Coffee store called **Choco-Coffee**, over a given period of time. The Coffee sales dataset was organised and analyzed to answer crucial questions and gain insights to make strategc data driven decisions. This project includes organizing and analyzing purchase transactions, customer information, and product details of these datasets.
 
-# Project 3- Super Store Sales Report (PoweBI)
+# Project 3- Super Store Sales Report (PowerBI)
 
 You can interact with the project [here](https://app.powerbi.com/links/K-pMlojKy3?ctid=6ca78932-d96b-4bc9-a757-8cbc03f574b9&pbi_source=linkShare)
 
