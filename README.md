@@ -17,6 +17,7 @@ This Excel projects provides a comprehensive overview of the purchase performanc
 # Project 3- Super Store Sales Report (PowerBI)
 
 You can interact with the project [here](https://app.powerbi.com/links/K-pMlojKy3?ctid=6ca78932-d96b-4bc9-a757-8cbc03f574b9&pbi_source=linkShare)
+https://github.com/AdeolaMusa/PowerBI-Project/edit/main/README.md
 
 ## Introduction
 
