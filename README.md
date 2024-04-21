@@ -1,3 +1,6 @@
+# About Me
+My name is Adeola Musa. I am an Excel, SQL, and PowerBI proficient Business Analyst and Strategist
+
 # Project 1- Goodride store Sales Analysis (Excel)
 
 ## Goodride Sales Analysis
